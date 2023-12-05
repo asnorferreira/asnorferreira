@@ -4,27 +4,28 @@ Hello! I'm Asnor Ferreira, a 21 year old programming student, passionate about t
 
 ## Contact
 
-Let's connect! You can find me on social media:
+Feel free to reach out! You can connect with me through various channels:
 
+- [asnorferreira@gmail.com](mailto:asnorferreira@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/asnor-ferreira-3a141a219/)
 - [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub)](https://github.com/asnorferreira?tab=repositories)
 - [![DIO](https://img.shields.io/badge/MEU_PERFIL_NA_DIO-000?style=for-the-badge&logo=DIO)](https://web.dio.me/users/asnorferreira?tab=skills)
 
 ## About Me
 
-- 🖥️ Currently focused on learning and mastering the skills needed to become a Full Stack Developer.
-- 🎉 I am 21 years old and committed to growing professionally in the field of technology.
-- 📺 My free time is filled with fascinating anime and stories.
-- 🧐 Curiosity and dedication are my main characteristics.
+- 🖥️ Currently dedicated to mastering the skills required for Full Stack Development.
+- 🎉 21 years old, committed to professional growth in the tech field.
+- 📺 Enthusiastic about anime and captivating stories.
+- 🧐 Defined by curiosity and unwavering dedication.
 
 ## Objectives
 
-I'm determined to step up in the tech world and make my mark. My goals include:
+My aspirations include:
 
-- 🚀 Master web development in all aspects - frontend and backend.
-- 🌐 Create web apps that have an impact and solve real-world problems.
-- 🔄 Participate in collaborative projects and learn from other talented developers.
-- 📚 Continue to educate myself and keep up with the latest trends.
+- 🚀 Mastering web development - both frontend and backend.
+- 🌐 Crafting impactful web apps to solve real-world problems.
+- 🔄 Participating in collaborative projects to learn from talented developers.
+- 📚 Continuous self-education to stay abreast of the latest industry trends.
 
 ## Hability
 | Preview | 
@@ -48,13 +49,11 @@ I'm determined to step up in the tech world and make my mark. My goals include:
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-## Projects and repository
+## Repository
 
 Here are some of my recent projects:
 
-- [Project Name 1](link_do_project1) - Will be added in the future.
-- [Project Name 2](link_do_project2) - Will be added in the future.
-- [Project Name 3](link_do_project3) - Will be added in the future.
+- [SystemBank RestFull ApiRest](https://github.com/asnorferreira/SystemBank-RestFull-ApiRest)
 
 ## Card - Streak
 
