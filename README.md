@@ -1,6 +1,6 @@
 ## About Me
 
-Hello! I'm Asnor Ferreira, a 21 year old programming student, passionate about technology and determined to become a full stack developer. Besides the code world, I am an anime enthusiast and my curiosity is what drives me.
+Hello! I'm Asnor Ferreira, a 21 year old software developer, passionate about technology and determined to become a full stack developer. Besides the code world, I am an anime enthusiast and my curiosity is what drives me.
 
 - 🖥️ Currently dedicated to mastering the skills required for Full Stack Development.
 - 🎉 21 years old, committed to professional growth in the tech field.
