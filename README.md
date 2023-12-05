@@ -1,7 +1,5 @@
 ## About Me
 
-## Asnor Ferreira - Full Stack
-
 Hello! I'm Asnor Ferreira, a 21 year old programming student, passionate about technology and determined to become a full stack developer. Besides the code world, I am an anime enthusiast and my curiosity is what drives me.
 
 - 🖥️ Currently dedicated to mastering the skills required for Full Stack Development.
