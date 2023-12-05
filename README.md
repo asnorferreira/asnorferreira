@@ -1,22 +1,22 @@
-# Asnor Ferreira - Full Stack
+## About Me
+
+## Asnor Ferreira - Full Stack
 
 Hello! I'm Asnor Ferreira, a 21 year old programming student, passionate about technology and determined to become a full stack developer. Besides the code world, I am an anime enthusiast and my curiosity is what drives me.
-
-## Contact
-
-Feel free to reach out! You can connect with me through various channels:
-
-- [asnorferreira@gmail.com](mailto:asnorferreira@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/asnor-ferreira-3a141a219/)
-- [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub)](https://github.com/asnorferreira?tab=repositories)
-- [![DIO](https://img.shields.io/badge/MEU_PERFIL_NA_DIO-000?style=for-the-badge&logo=DIO)](https://web.dio.me/users/asnorferreira?tab=skills)
-
-## About Me
 
 - 🖥️ Currently dedicated to mastering the skills required for Full Stack Development.
 - 🎉 21 years old, committed to professional growth in the tech field.
 - 📺 Enthusiastic about anime and captivating stories.
 - 🧐 Defined by curiosity and unwavering dedication.
+  
+
+## Contact
+
+Feel free to reach out! You can connect with me through various channels:
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/asnor-ferreira-3a141a219/)
+- [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub)](https://github.com/asnorferreira?tab=repositories)
+- [![DIO](https://img.shields.io/badge/MEU_PERFIL_NA_DIO-000?style=for-the-badge&logo=DIO)](https://web.dio.me/users/asnorferreira?tab=skills)
 
 ## Objectives
 
