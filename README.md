@@ -2,7 +2,6 @@
 
 ## About Me
 
-
 💻 I'm a [Fullstack] Software developer.
 
 👩‍💻 I currently work as [Eletronics technician] @ [[https://simpress.com.br/]].
