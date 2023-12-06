@@ -64,18 +64,17 @@ My aspirations include:
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
-### Repository
-
-Here are some of my recent projects:
-
-- [SystemBank RestFull ApiRest](https://github.com/asnorferreira/SystemBank-RestFull-ApiRest)
-
 ### Card - Streak
 
 | Preview | 
 |:-------:|
 [![GitHub Streak](https://streak-stats.demolab.com/?user=asnorferreira&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
+### Repository
+
+Here are some of my recent projects:
+
+- [SystemBank RestFull ApiRest](https://github.com/asnorferreira/SystemBank-RestFull-ApiRest)
 
 
 ## Contact 📭
