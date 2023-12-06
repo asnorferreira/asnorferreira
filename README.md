@@ -1,12 +1,14 @@
+
 ## About Me
 
-Hello! I'm Asnor Ferreira, a 21 year old software developer, passionate about technology and determined to become a full stack developer. Besides the code world, I am an anime enthusiast and my curiosity is what drives me.
+Hello! I'm a software developer, passionate about technology and determined to become a full stack developer. Besides the code world, I am an anime enthusiast and my curiosity is what drives me.
 
-- 🖥️ Currently dedicated to mastering the skills required for Full Stack Development.
-- 🎉 21 years old, committed to professional growth in the tech field.
-- 📺 Enthusiastic about anime and captivating stories.
-- 🧐 Defined by curiosity and unwavering dedication.
-  
+🖥️ Currently dedicated to mastering the skills required for Full Stack Development.
+🎉 21 years old, committed to professional growth in the tech field.
+📺 Enthusiastic about anime and captivating stories.
+🧐 Defined by curiosity and unwavering dedication.
+🎓 Studies in [[Software Development Full-Stack](https://cubos.academy/cursos/desenvolvimento-de-software-v2)] @ [ [Cubos Academy](https://cubos.academy/)]
+
 
 ## Contact
 
