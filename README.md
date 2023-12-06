@@ -4,7 +4,7 @@
 
 💻 I'm a [Fullstack] Software developer.
 
-👩‍💻 I currently work as [Eletronics technician] | @ [[https://simpress.com.br/]].
+👩‍💻 I currently work as Eletronics technician | @ [(https://simpress.com.br/)].
 
 ✒️ 21 years old, committed to professional growth in the tech field.
 
@@ -12,7 +12,7 @@
 
 📚 Defined by curiosity and unwavering dedication.
 
-🎓 Specializing in [[Software Development Full-Stack](https://cubos.academy/cursos/desenvolvimento-de-software-v2)] | @ [ [Cubos Academy](https://cubos.academy/)] and [[Software Engineer](https://www.uninter.com/graduacao-ead/engenharia-de-software/)] | @ [[https://www.uninter.com/]].
+🎓 Specializing in [[Software Development Full-Stack](https://cubos.academy/cursos/desenvolvimento-de-software-v2)]. 
 
 ## Objectives
 
@@ -46,12 +46,7 @@ My aspirations include:
 |:-------:|
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asnorferreira&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-### Card - Most Used Languages
-| Preview | 
-|:-------:|
-![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=asnorferreira&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) 
-
-### Card - Most Used Languages Compact
+### Most Used Languages 
 
 | Preview |
 |:-------:|
@@ -64,11 +59,6 @@ My aspirations include:
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
-### Card - Streak
-
-| Preview | 
-|:-------:|
-[![GitHub Streak](https://streak-stats.demolab.com/?user=asnorferreira&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 ### Repository
 
