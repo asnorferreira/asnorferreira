@@ -74,6 +74,7 @@ Here are some of my recent projects:
 
 Feel free to reach out! You can connect with me through various channels:
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/asnor-ferreira-3a141a219/)
-- [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub)](https://github.com/asnorferreira?tab=repositories)
-- [![DIO](https://img.shields.io/badge/MEU_PERFIL_NA_DIO-000?style=for-the-badge&logo=DIO)](https://web.dio.me/users/asnorferreira?tab=skills)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/asnor-ferreira-3a141a219/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub)](https://github.com/asnorferreira?tab=repositories)
+[![DIO](https://img.shields.io/badge/MEU_PERFIL_NA_DIO-000?style=for-the-badge&logo=DIO)](https://web.dio.me/users/asnorferreira?tab=skills)
+[![Gmail Badge](https://img.shields.io/badge/-asnorferreira@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asnorferreira@gmail.com)](mailto:asnorferreira@gmail.com)
