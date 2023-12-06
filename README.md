@@ -7,7 +7,7 @@ Hello! I'm a software developer, passionate about technology and determined to b
 🎉 21 years old, committed to professional growth in the tech field.
 📺 Enthusiastic about anime and captivating stories.
 🧐 Defined by curiosity and unwavering dedication.
-🎓 Studies in [[Software Development Full-Stack](https://cubos.academy/cursos/desenvolvimento-de-software-v2)].
+🎓 My Studies is to begin a [[Software Development Full-Stack](https://cubos.academy/cursos/desenvolvimento-de-software-v2)].
 
 
 ## Contact
