@@ -1,5 +1,7 @@
 # Hello, my name is Asnor Ferreira 
 
+![](https://komarev.com/ghpvc/?username=asnorferreira&color=006bed)
+
 ## About Me
 
 💻 I'm a [Fullstack] Software developer.
