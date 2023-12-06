@@ -38,18 +38,19 @@ My aspirations include:
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
 
-## GitHub Stats ⚡
+### GitHub Stats ⚡
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asnorferreira&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=asnorferreira&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
-### Repository
+**Project**
 
 Here are some of my recent projects:
 
 - [SystemBank RestFull ApiRest](https://github.com/asnorferreira/SystemBank-RestFull-ApiRest)
+
 
 **Utility**
 
@@ -69,7 +70,7 @@ Here are some of my recent projects:
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
-## Contact 📭
+### Contact 📭
 
 Feel free to reach out! You can connect with me through various channels:
 
