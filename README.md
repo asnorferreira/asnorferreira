@@ -74,6 +74,8 @@ Here are some of my recent projects:
 
 Feel free to reach out! You can connect with me through various channels:
 
-[![Linkedin](https://img.shields.io/badge/-asnor-ferreira-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/asnor-ferreira-)](www.linkedin.com/in/asnor-ferreira-)
+[![Linkedin](https://img.shields.io/badge/-asnor-ferreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/asnor-ferreira-
+)](www.linkedin.com/in/asnor-ferreira-
+)ss
 [![Gmail Badge](https://img.shields.io/badge/-asnorferreira@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asnorferreira@gmail.com)](mailto:asnorferreira@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/asnorferreira?label=follow&style=social)](https://github.com/asnorferreira)
