@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/asnor-ferreira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asnor-ferreira" height="30" width="40" /></a>
 <a href="https://instagram.com/asnorferreira_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asnorferreira_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/asnorferreira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="asnorferreira" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/asnorferreira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="asnorferreira" height="30" width="40" /></a>
 <a href="https://discord.gg/asnorferreira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="asnorferreira" height="30" width="40" /></a>
 </p>
 
