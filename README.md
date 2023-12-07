@@ -33,10 +33,10 @@
 <p><a href="https://www.buymeacoffee.com/buymeacoffee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee" /></a></p><br><br>
 
 
+| Preview |
+|:-------:|
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asnorferreira&show_icons=true&locale=en&layout=compact" alt="asnorferreira" /></p>
 
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asnorferreira&show_icons=true&locale=en" alt="asnorferreira" /></p>
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asnorferreira&" alt="asnorferreira" /></p>
