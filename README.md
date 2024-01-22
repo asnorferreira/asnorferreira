@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asnor Ferreira</h1>
 <h3 align="center">A passionate back-end developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asnorferreira&label=Profile%20views&color=0e75b6&style=flat" alt="asnorferreira" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=asnorferreira&label=Profile%20views&color=0e75b6&style=flat" alt="asnorferreira" /> </p> 
 
 - 🔭 I’m currently working on [RESTFULL API of a SystemBank](https://github.com/asnorferreira/SystemBank-RestFull-ApiRest) and [Address Management App with Node.js](https://github.com/asnorferreira/Address-Management-App-with-Node.js)
 
@@ -18,6 +18,8 @@
 - ⚡ Fun fact **As a Back-End Developer, I bring a wealth of technical skills and strong
   soft skills to professional projects. My experience includes working with a range of technologies
   and tools. I have a proven track record of successful problem-solving and thrive in dynamic, fast-paced environments.**
+  
+[![wakatime](https://wakatime.com/badge/user/018c785b-178c-4897-8284-825849971340.svg)](https://wakatime.com/@018c785b-178c-4897-8284-825849971340)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
